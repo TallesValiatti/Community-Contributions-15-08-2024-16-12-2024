@@ -1,4 +1,4 @@
-# Community-Contributions-2023-2024
+# Community-Contributions-15-08-2024-16-12-2024
 
 This repository consolidates my contributions between Aug 15, 2024 and Dec 16, 2024.
 
@@ -13,13 +13,13 @@ This repository consolidates my contributions between Aug 15, 2024 and Dec 16, 2
 
 ## Contributions
 
-[//]: # (- [Articles]&#40;https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/Articles&#41;)
+- [Articles](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Articles)
 
-[//]: # (- [Events]&#40;https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/Events&#41;)
+- [Events](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events)
 
-[//]: # (- [Youtube]&#40;https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/Youtube&#41;)
+- [Youtube](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Youtube)
 
-[//]: # (- [Repos]&#40;https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/GithubRepos&#41;)
+- [Repos](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/GithubRepos/Repos.md)
 
 ## Links
 
