@@ -13,4 +13,4 @@ The highlight of our presentation was a **live demo** showcasing how to use **Az
 
 This engaging and practical session emphasized the importance of security in modern API development, equipping attendees with actionable knowledge to enhance their applications' safety and reliability.
 
-[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/DataSaturdayVitoria2024API/Images)  
+[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/DataSaturday2024_Vix_Security/Images)  
