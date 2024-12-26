@@ -13,4 +13,4 @@ The session featured a **live demonstration**, providing attendees with a clear,
 
 We concluded with a lively Q&A session, where participants shared their insights and queries, and we explored the exciting potential of Azure OpenAI in modern application development.
 
-[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/DataSaturdayBeloHorizonte2024/Images)  
+[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/DataSaturday2024_BH_FileSearchinAzureOpenAIAssistants/Images)  
