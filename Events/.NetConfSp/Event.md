@@ -13,4 +13,4 @@ I also had the privilege of contributing to discussions on **cloud** and **DevOp
 
 This event was a fantastic platform for learning, collaboration, and exploring how .NET technologies are shaping the future of software development.
 
-[See more](https://github.com/DotNetSP/Dotnet-Conf-2024-12)  
+[See more](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/.NetConfSp/Images)  
