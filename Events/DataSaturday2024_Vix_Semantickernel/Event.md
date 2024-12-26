@@ -13,4 +13,4 @@ The highlight of the session was a **live demo**, where I demonstrated the model
 
 We concluded with an engaging Q&A, discussing the potential of AI-driven tools in modern database management and exploring innovative ways to integrate these technologies into everyday workflows.
 
-[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/DataSaturdayVitoria2024SQL/Images)  
+[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/DataSaturday2024_Vix_Semantickernel/Images)  
