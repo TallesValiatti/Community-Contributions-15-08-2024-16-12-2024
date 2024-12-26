@@ -12,4 +12,4 @@ With 25 speakers delivering 30 sessions across six simultaneous tracks—includi
 
 Supported by key sponsors like Microsoft, this event celebrated our shared passion for data-driven innovation. Data Saturday Vitória 2024 was a remarkable platform for learning, networking, and fostering collaboration among professionals and enthusiasts alike.
 
-[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/DataSaturdayVitoria2024/Images)  
+[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/DataSaturday2024_Organization/Images)  
