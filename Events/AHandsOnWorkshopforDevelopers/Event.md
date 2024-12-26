@@ -9,4 +9,4 @@ This workshop was a hands-on experience designed specifically for .NET developer
 
 The session included collaborative coding, real-world use cases, and discussions on overcoming challenges in AI integration. Attendees gained practical insights and actionable skills to innovate and enhance their .NET applications using Azure OpenAI. This workshop highlighted the possibilities of AI in software development and empowered developers to harness its potential effectively.
 
-[See images](https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/Events/AzureOpenAIWorkshop/Images)
+[See images](https://github.com/TallesValiatti/Community-Contributions-15-08-2024-16-12-2024/tree/main/Events/AHandsOnWorkshopforDevelopers/Images)
